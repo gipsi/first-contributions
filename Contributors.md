@@ -1,5 +1,5 @@
 
-- [gipsi](https://github.com/gipsi)
+- [gipsitana](https://github.com/gipsi)
 - [girlzap](https://github.com/girlzap)
 - [DevMaterial](https://github.com/DevMaterial)
 - [drac00l](https://github.com/drac00l)
